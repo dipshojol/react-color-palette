@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-color-palette/static/css/main.56026a3e.chunk.css",
+    "main.js": "/react-color-palette/static/js/main.c0e2fecc.chunk.js",
+    "main.js.map": "/react-color-palette/static/js/main.c0e2fecc.chunk.js.map",
+    "runtime~main.js": "/react-color-palette/static/js/runtime~main.27d239de.js",
+    "runtime~main.js.map": "/react-color-palette/static/js/runtime~main.27d239de.js.map",
+    "static/js/2.c2695c00.chunk.js": "/react-color-palette/static/js/2.c2695c00.chunk.js",
+    "static/js/2.c2695c00.chunk.js.map": "/react-color-palette/static/js/2.c2695c00.chunk.js.map",
+    "index.html": "/react-color-palette/index.html",
+    "precache-manifest.032d1045720897b9a85a4b151f980ea2.js": "/react-color-palette/precache-manifest.032d1045720897b9a85a4b151f980ea2.js",
+    "service-worker.js": "/react-color-palette/service-worker.js",
+    "static/css/main.56026a3e.chunk.css.map": "/react-color-palette/static/css/main.56026a3e.chunk.css.map",
+    "static/media/logo.gif": "/react-color-palette/static/media/logo.2b56778a.gif"
+  }
+}
